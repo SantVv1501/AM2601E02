@@ -5,7 +5,7 @@
 
 - _Vázquez Villegas Santiago - 334001078_
 - _Castañeda Mejía Alejandro - 17716324_
-- _Aguilar Benítez José Eduardo - 20748923_
+- _Aguilar Benítez José Eduardo - 20667493_
 
 *Institución*: _Universidad Tecnológica de México_
 
