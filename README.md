@@ -15,3 +15,5 @@ _La interfaz creada con Jetpack Compose ofrece una experiencia fluida, clara y m
 
 _Además, la arquitectura del proyecto está pensada para ser modular y fácil de ampliar, de modo que se puedan agregar nuevas preguntas o categorías en el futuro sin modificar la estructura principal. Gracias al uso de buenas prácticas de desarrollo en Kotlin y a la naturaleza declarativa de Compose, este proyecto constituye una base sólida para aplicaciones educativas simples pero funcionales enfocadas en el aprendizaje inicial del inglés. La aplicacion cuenta con un banco aproximado de 100 preguntas, donde se realiza una selección al azar de 25 preguntas, con el objetivo de evitar que el examen sea el mismo para todos los usuarios._
 
+*URL para el repositorio: https://github.com/SantVv1501/AM2601E02.git*
+
